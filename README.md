@@ -5,8 +5,8 @@
 **Se suben:**
 
 ```
-- Ejemplos de programas.
-- Ejercicios de lógica.
+- Ejemplos de programas
+- Ejercicios de lógica
 - Juegos
 - ...
 ```
